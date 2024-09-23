@@ -1,0 +1,474 @@
+# Copyright (C) 2024 learnhowwp.com
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Flip Cards Module For Divi 0.9.4.2\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/flip-cards-module-divi\n"
+"POT-Creation-Date: 2024-09-01 21:43:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: divi-flipbox.php:57
+msgid "Rate Plugin"
+msgstr ""
+
+#: divi-flipbox.php:82
+msgid "Getting Started Guide"
+msgstr ""
+
+#: divi-flipbox.php:83
+msgid "More Divi Plugins"
+msgstr ""
+
+#: includes/class-lwp-cards-rating.php:79
+msgid ""
+"<div class=\"wrap notice notice-info\">\n"
+"                        <div style=\"margin:10px 0px;\">\n"
+"                            <p>Hello! Seems like you are using <strong> %s "
+"</strong> plugin to build your Divi website. &#127775; If you've found it "
+"helpful, could you take a moment to rate us 5 stars &#127775; on WordPress? "
+"It would mean the world to us and help others choose the right plugin. "
+"Thank you!</p>\n"
+"                        </div>\n"
+"                        <div class=\"button-group\" style=\"margin:10px "
+"0px;\">\n"
+"                            <a href=\"%2$s\" class=\"button "
+"button-primary\" target=\"_blank\" style=\"margin-right:10px;\">Ok,you "
+"deserve it</a>\n"
+"                            <span class=\"dashicons "
+"dashicons-smiley\"></span><a href=\"%3$s\" class=\"button button-link\" "
+"style=\"margin-right:10px; margin-left:3px;\">I already did</a>\n"
+"                            <a href=\"%4$s\" class=\"button button-link\"> "
+"Don't show this again.</a>\n"
+"                        </div>\n"
+"                    </div>"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:16
+msgid "Flip Cards"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:26
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:537
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:634
+msgid "Front Title"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:29
+msgid "The text before the Breadcrumbs"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:34
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:207
+msgid "Content"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:37
+msgid "Content entered here will appear on the front card inside the module."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:42
+msgid "Use Front Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:47
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:103
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:130
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:168
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:248
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:304
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:331
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:369
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:491
+msgid "No"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:48
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:104
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:131
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:169
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:249
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:305
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:332
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:370
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:492
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:56
+msgid "Upload a Front image"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:57
+msgid "Choose a Front Image"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:58
+msgid "Set As Front Image"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:60
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like "
+"to display on the front card."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:68
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:269
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:517
+msgid "Front Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:73
+msgid "Choose the icon for the front card."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:81
+msgid "Front Background Color"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:83
+msgid "Here you can define a custom color for the backgroun of the front card."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:89
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:290
+msgid "Icon Color"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:91
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:292
+msgid "Here you can define a custom color for your icon."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:99
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:300
+msgid "Circle Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:108
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:309
+msgid "Here you can choose whether icon set above should display within a circle."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:116
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:317
+msgid "Circle Color"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:118
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:319
+msgid "Here you can define a custom color for the icon circle."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:126
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:327
+msgid "Show Circle Border"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:133
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:334
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:143
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:344
+msgid "Circle Border Color"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:145
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:346
+msgid "Here you can define a custom color for the icon circle border."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:153
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:354
+msgid "Image/Icon Alignment"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:154
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:355
+msgid "Align image/icon to the left, right or center."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:163
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:364
+msgid "Use Icon Font Size"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:164
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:365
+msgid ""
+"If you would like to control the size of the icon, you must first enable "
+"this option."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:179
+msgid "Icon Front Size"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:180
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:381
+msgid "Control the size of the icon by increasing or decreasing the font size."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:199
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:547
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:638
+msgid "Back Title"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:202
+msgid "Enter the Title for the back card here."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:210
+msgid "Content entered here will appear on the back card."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:215
+msgid "Button Text"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:218
+msgid "Input your desired button text, or leave blank for no button."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:224
+msgid "Button Link URL"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:227
+msgid "Input the destination URL for your button."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:231
+msgid "Button Link Target"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:235
+msgid "In The Same Window"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:236
+msgid "In The New Tab"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:239
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:243
+msgid "Use Back Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:257
+msgid "Upload a Back image"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:258
+msgid "Choose a Back Image"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:259
+msgid "Set As Back Image"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:261
+msgid ""
+"Upload your desired back image, or type in the URL to the image you would "
+"like to display."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:274
+msgid "Choose the icon for the back card."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:282
+msgid "Back Background Color"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:284
+msgid "Here you can define a custom color for the backgroun of the back card."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:380
+msgid "Icon Font Size"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:400
+msgid "Content Width"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:401
+msgid "Adjust the width of the cards in the Flip Box."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:419
+msgid "Flip Box Height"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:420
+msgid "Set a height for the cards in the Flip Card"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:438
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:519
+msgid "Flip Animation"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:439
+msgid "Choose the animation for the flip card"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:442
+msgid "Up"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:443
+msgid "Down"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:444
+msgid "Left"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:445
+msgid "Right"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:452
+msgid "Animation Duration"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:453
+msgid "Choose the animation duration for the flip card"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:462
+msgid ""
+"Speed up or slow down your animation by adjusting the animation duration. "
+"Units are in milliseconds and the default animation duration is one second."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:470
+msgid "Animation Speed Curve"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:471
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:475
+msgid ""
+"Here you can adjust the easing method of your animation. Easing your "
+"animation in and out will create a smoother effect when compared to a "
+"linear speed curve."
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:477
+msgid "Ease-In-Out"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:478
+msgid "Ease"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:479
+msgid "Ease-In"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:480
+msgid "Ease-Out"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:481
+msgid "Linear"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:487
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:520
+msgid "3D Effect"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:518
+msgid "Back Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:553
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:642
+msgid "Front Body"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:559
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:646
+msgid "Back Body"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:591
+msgid "Button"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:618
+msgid "Front Card"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:622
+msgid "Back Card"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:626
+msgid "Flip Box"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:630
+msgid "Box Inner"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:650
+msgid "Front Image"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:654
+msgid "Back Image"
+msgstr ""
+
+#: includes/modules/DiviFlipboxModule/DiviFlipboxModule.php:658
+msgid "Back Button"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Flip Cards Module For Divi"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.learnhowwp.com/divi-flipbox-plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin adds a Flipbox Modules in the Divi Builder which allows you to "
+"create flip cards on your website easily."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "learnhowwp.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.learnhowwp.com"
+msgstr ""
