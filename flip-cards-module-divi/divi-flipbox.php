@@ -3,7 +3,7 @@
 Plugin Name: Flip Cards Module For Divi
 Plugin URI:  http://www.learnhowwp.com/divi-flipbox-plugin
 Description: This plugin adds a Flipbox Modules in the Divi Builder which allows you to create flip cards on your website easily.
-Version:     0.9.4.2
+Version:     0.9.5
 Author:      learnhowwp.com
 Author URI:  http://www.learnhowwp.com
 License:     GPL2

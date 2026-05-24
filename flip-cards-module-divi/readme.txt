@@ -2,9 +2,9 @@
 Contributors: themeythemes
 Tags: divi, flip card, flip box, divi module, divi flipbox
 Requires at least: 5.0
-Tested up to: 6.6
-Requires PHP: 5.6
-Stable tag: trunk
+Tested up to: 7.0
+Requires PHP: 7.4
+Stable tag: 0.9.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,7 +18,7 @@ In addition to text and image customization, the plugin enables you to add a but
 
 **Features**
 
-* **Flip Direction**: Choose from various flip directions—up, down, left, or right—to control how the flip card rotates.
+* **Flip Direction**: Choose from various flip directions up, down, left, or right to control how the flip card rotates.
 * **Icon and Image Options:**: Choose between displaying an icon or an image on both the front and back of the flip cards.
 * **3D Flip Effect**: Enable a 3D effect that makes text appear to float above the background during the flip animation, adding depth.
 * **Customizable Text**: Easily set different titles and body text for the front and back sides of the flip cards.
@@ -49,7 +49,15 @@ In addition to text and image customization, the plugin enables you to add a but
 
 After you activate the plugin a module should automatically appear in the module list. The name of the module is Flip Cards.
 
+= Does this plugin work with Divi 5? =
+
+No. Flip Cards Module For Divi is built for Divi 4 only and is not compatible with Divi 5 at this time. The module uses the Divi 4 Visual Builder and classic module APIs. If your site is running Divi 5, do not rely on this plugin until a Divi 5-compatible release is available. For Divi 4 sites, use Divi 4.13.1 or higher for the best icon picker compatibility.
+
 == Changelog ==
+
+= 0.9.5 =
+* Fixed icons displaying as broken characters on the frontend for Flip Cards modules saved before a recent update.
+* Fixed Visual Builder error when editing older Flip Cards modules that use icons (iconFontWeight).
 
 = 0.9.4.2 =
 * Fixed warning: optional parameter declared before required parameter.

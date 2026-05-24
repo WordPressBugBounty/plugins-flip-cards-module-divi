@@ -27,7 +27,7 @@ class LWP_DiviFlipbox extends DiviExtension {
 	 *
 	 * @var string
 	 */
-	public $version = '0.9.4';
+	public $version = '0.9.5';
 
 	/**
 	 * LWP_DiviFlipbox constructor.

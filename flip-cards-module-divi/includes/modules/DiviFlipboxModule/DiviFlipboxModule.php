@@ -767,7 +767,7 @@ class LWP_DiviFlipboxModule extends ET_Builder_Module {
 
 		// Front Icon
 		if ( $use_front_icon === 'on' ) {
-			$front_icon = esc_attr( et_pb_process_font_icon( $front_icon ) );    // Processing the Front Icon
+			$front_icon = esc_attr( html_entity_decode( et_pb_process_font_icon( $front_icon ), ENT_QUOTES, 'UTF-8' ) );    // Processing the Front Icon
 
 			$circle_class = '';
 			if ( $front_use_circle === 'on' ) {
@@ -821,7 +821,7 @@ class LWP_DiviFlipboxModule extends ET_Builder_Module {
 
 		// Back Icon
 		if ( $use_back_icon === 'on' ) {
-			$back_icon = esc_attr( et_pb_process_font_icon( $back_icon ) );  // Processing the Back Icon
+			$back_icon = esc_attr( html_entity_decode( et_pb_process_font_icon( $back_icon ), ENT_QUOTES, 'UTF-8' ) );  // Processing the Back Icon
 
 			$circle_class = '';
 			if ( $back_use_circle === 'on' ) {
